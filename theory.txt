@@ -1,0 +1,8 @@
+
+
+for (initialization; range/condition; increment/decrement){
+    //Statement....
+}
+
+
+92783
